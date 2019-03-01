@@ -169,9 +169,6 @@ const ClassComponent = toClass(FunctionComponent)
 
 [Read the docs](docs/flow.md)
 
-## Translation
-
-[Traditional Chinese](https://github.com/neighborhood999/recompose)
 
 ## Why
 
